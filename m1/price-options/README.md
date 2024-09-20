@@ -38,4 +38,6 @@ export default Link;
 # how to show data dynamically - V44.4-07:00 to v44.5-01:20
 # how to change name if duplicate v44.6 - 04:00
 
-# 44.7
+# 44.8
+
+# https://github.com/brillout/awesome-react-components
