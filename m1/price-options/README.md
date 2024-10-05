@@ -38,6 +38,14 @@ export default Link;
 # how to show data dynamically - V44.4-07:00 to v44.5-01:20
 # how to change name if duplicate v44.6 - 04:00
 
-# 44.8
+# 44.8 - explore react awesome components
+#   https://github.com/brillout/awesome-react-components
 
-# https://github.com/brillout/awesome-react-components
+# 45.1 - react router intro with setup, Single Page Application(SPA),
+#   ***https://reactrouter.com/en/main/start/tutorial - should read strongly recommented   
+#   watch frequently to clear react router
+
+# 45.2 - nested route, outlet
+#   https://reactrouter.com/en/main/start/tutorial#nested-routes
+
+# 45.3
