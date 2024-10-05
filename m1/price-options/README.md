@@ -48,4 +48,14 @@ export default Link;
 # 45.2 - nested route, outlet
 #   https://reactrouter.com/en/main/start/tutorial#nested-routes
 
-# 45.3
+# 45.3 - Link alternative of <a> - no reload, nested routing - 10:34(impoortant to watch again)
+# 45.4 - loader, data load using prop, internel/esternal css, grid
+# 45.5 - 
+
+
+
+
+
+
+
+# DISM /Online /Cleanup-Image /RestoreHealth
