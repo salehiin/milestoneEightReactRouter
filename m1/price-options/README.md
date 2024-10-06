@@ -52,6 +52,9 @@ export default Link;
 # 45.4 - loader, data load using prop, internel/esternal css, grid
 # 45.5 - dynamic routing - click to "User Details" to show detail page
 # 45.6 - recap fetch data and details - only video to clear
+# 45.7 - click handler, useNavigate, page not found, how to find route parameter
+# 45.8 - NavLink - link tab styling/active route, useNavigation, loading, useLocation to define route, different hooks
+# 45.9 - HW - themealdb.com 
 
 
 
