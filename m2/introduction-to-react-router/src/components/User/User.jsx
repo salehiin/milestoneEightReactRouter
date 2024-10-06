@@ -1,3 +1,4 @@
+import { Link, useLoaderData } from "react-router-dom";
 
 
 
@@ -11,11 +12,16 @@ const User = ({user}) => {
         borderRadius: '10px'
     }
 
+    
+
     return (
       <div style={userStyle}>
             <h2>{name}</h2>
             <p>Email: {email}</p>
             <p>Phone: {phone}</p>
+            <Link to={`/user/${id}`} >Show Details
+                <button>Click Me</button>
+            </Link>
       </div>
     );
   };

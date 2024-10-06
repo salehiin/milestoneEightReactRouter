@@ -50,7 +50,8 @@ export default Link;
 
 # 45.3 - Link alternative of <a> - no reload, nested routing - 10:34(impoortant to watch again)
 # 45.4 - loader, data load using prop, internel/esternal css, grid
-# 45.5 - 
+# 45.5 - dynamic routing - click to "User Details" to show detail page
+# 45.6 - recap fetch data and details - only video to clear
 
 
 
