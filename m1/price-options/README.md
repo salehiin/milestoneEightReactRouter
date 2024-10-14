@@ -60,7 +60,16 @@ export default Link;
 # 46.1 - form, input data using form
 # 46.2 - when the input value have a default value, password error handle - have to watch again to clear
 # 46.3 - useRef, input different method  - have to watch again to clear
-# 46.4 - custom hook for form,  - have to watch again to clear
+# 46.4 - custom hook for form  - have to watch again to clear
+# 46.5 - reusable form component style
+    google/youtube - use hook to handle states and submit and error - example react hook form
+    charGPT - what are different ways to reuse react components give me code examples as well
+# 46.6 - externel css, prop use, list of components to create connection
+# 46.7 - prop drilling, context API - watch frequently
+# 46.8 - context API, useContext - have to watch again to clear   
+
+# 47.1 - 
+    
 
 
 
