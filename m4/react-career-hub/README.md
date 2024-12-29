@@ -77,6 +77,9 @@ export default Link;
 # 47.7 - react toastify, data save to local storage, 
 # 47.8 - selected data-applied jobs display in applied jobs page, no need different component-can loop in same component with new element-MAP, data filter, 
 # 47.9 - deploy netlify, netlify issue solve, deploy surge, surge issue solve
+
+# 48_5.1 - fav icon, react helmet, chrome extension - react developer tools
+# 48_5.2 - google map
     
 
 
