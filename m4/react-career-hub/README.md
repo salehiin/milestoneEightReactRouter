@@ -68,7 +68,15 @@ export default Link;
 # 46.7 - prop drilling, context API - watch frequently
 # 46.8 - context API, useContext - have to watch again to clear   
 
-# 47.1 - 
+# 47.1 - project set up, Home-Footer setup
+# 47.2 - Header, route, navigation, error page, different component-page ready
+# 47.3 - important concep(06:30), data load & show in a component
+# 47.4 - body css control(02:00), service-job card ready
+# 47.5 - use of icons, gradient use, load all data, jobs.slice(0, dataLength).map - not to show all data, button - to see all data, conditional css - button hide, 
+# 47.6 - service-job details dynamic route-page-funtionality ready, grid use
+# 47.7 - react toastify, data save to local storage, 
+# 47.8 - selected data-applied jobs display in applied jobs page, no need different component-can loop in same component with new element-MAP, data filter, 
+# 47.9 - deploy netlify, netlify issue solve, deploy surge, surge issue solve
     
 
 
